@@ -95,6 +95,15 @@
     \end{tabular*}\vspace{-4pt}
 }
 
+\newcommand{\resumeProjectHeadingWithCompany}[4]{
+    \item
+    \begin{tabular*}{\linewidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\small#1} & \hfill \small #4 \\
+      \textit{\small#2} & \\
+      \textit{\small#3} & \\
+    \end{tabular*}\vspace{-4pt}
+}
+
 \newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-5pt}}
 
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
@@ -150,7 +159,7 @@
     \resumeItem{Resolved 20+ front-end and back-end issues across Operto’s staff dashboard, improving stability and performance through maintenance and feature enhancements}
 \resumeItemListEnd
 
-
+\resumeSubHeadingListEnd
 
 %-----------PROJECTS-----------
 \section{Projects}
@@ -167,7 +176,15 @@
 
 
 \resumeProjectHeading
-{E-Commerce CI/CD Pipeline}{Express, Docker, Kubernetes, Jest, GitHub Actions}{November, 2024 -- December, 2024}
+{Hope Health Action - Community Based Rehabilitation Healthcare System}{React Native, TypeScript, Django, PostgreSQL}{January, 2026 -- Present}
+\resumeItemListStart
+\resumeItem{Led a 4-person Agile team as Scrum Master to develop a Community-Based Research healthcare application for Hope Health Action, facilitating weekly stakeholder meetings to navigate legacy code and prioritize system reliability}
+\resumeItem{Engineered full-stack modules for clinical patient notes and community "Success Stories" using React Native and Django, implementing offline-first data synchronization via WatermelonDB to guarantee seamless data access}
+\resumeItem{Developed a secure mobile session management system utilizing encrypted client-side storage to automatically lock the application during idle periods, ensuring strict data privacy for sensitive healthcare records}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{E-Commerce CI/CD Pipeline} {GitHub Actions, Docker, Kubernetes, Jest, Express}{November, 2024 -- December, 2024}
 \resumeItemListStart
 \resumeItem{Developed and deployed a CI/CD pipeline to automate testing, containerization, and deployment of microservices, optimizing turnaround time for the software development process}
 \resumeItem{Orchestrated microservice deployment on GCP Kubernetes, configuring three replica deployments and LoadBalancer services for scalability and high availability}

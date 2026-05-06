@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1778096658.34359 "/Users/armanlodhra/Desktop/Repos/resume/main.tex" "main.pdf" "main" 1778096658.91903 0
-  "/Users/armanlodhra/Desktop/Repos/resume/main.tex" 1778096658.05448 10970 be8ffb210cab3a77e31ef4a8d16ab6fe ""
+["pdflatex"] 1778097251.35143 "/Users/armanlodhra/Desktop/Repos/resume/main.tex" "main.pdf" "main" 1778097251.92352 0
+  "/Users/armanlodhra/Desktop/Repos/resume/main.tex" 1778097198.36547 10988 a97799e53acd01f4d6becb9a697c3605 ""
   "/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -98,9 +98,9 @@
   "/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1778095593 324353 c3aaa600cc0b5a982a9d67e8a3105ae7 ""
   "/usr/local/texlive/2026basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1772405612 2966183 588a2f29d0aaf280e3a142a37c2dd621 ""
   "/usr/local/texlive/2026basic/texmf.cnf" 1772405582 628 bbc09d6d38872d53c11bb48dc9b14e88 ""
-  "main.aux" 1778096658.83586 839 e5a6aae4dae16e431b8f97818c804d39 "pdflatex"
-  "main.out" 1778096658.83662 594 7f3a655c92165c3084a8d0888fc5dc36 "pdflatex"
-  "main.tex" 1778096658.05448 10970 be8ffb210cab3a77e31ef4a8d16ab6fe ""
+  "main.aux" 1778097251.83521 839 e5a6aae4dae16e431b8f97818c804d39 "pdflatex"
+  "main.out" 1778097251.83598 594 7f3a655c92165c3084a8d0888fc5dc36 "pdflatex"
+  "main.tex" 1778097198.36547 10988 a97799e53acd01f4d6becb9a697c3605 ""
   (generated)
   "main.aux"
   "main.log"
